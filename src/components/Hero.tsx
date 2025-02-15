@@ -64,7 +64,7 @@ export function Hero() {
             transition={{ duration: 0.8 }}
             className="mb-6 text-5xl font-bold text-white md:text-7xl [text-shadow:_0_0_20px_rgba(255,0,255,0.5)]"
           >
-            CYBER<span className="text-[#ff00ff]">VERSE</span>
+            Crypto<span className="text-[#ff00ff]">Quest</span>
           </motion.h1>
           
           <motion.p

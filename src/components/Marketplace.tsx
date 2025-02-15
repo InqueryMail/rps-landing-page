@@ -72,7 +72,7 @@ export function Marketplace() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4">
           <div className="flex items-center gap-12">
             <h1 className="text-2xl font-bold text-white">
-              CYBER<span className="text-[#ff00ff]">MARKET</span>
+              CRYPTO<span className="text-[#ff00ff]">MARKET</span>
             </h1>
             <nav className="hidden space-x-8 md:block">
               {categories.map(category => (
