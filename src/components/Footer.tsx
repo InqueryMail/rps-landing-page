@@ -77,8 +77,8 @@ export function Footer() {
             <ul className="space-y-2">
               <li className="flex items-center gap-2 text-gray-400">
                 <Mail className="h-4 w-4 text-[#00ffff]" />
-                <a href="mailto:support.cryptoquest.studio" className="hover:text-[#00ffff]">
-                  support.cryptoquest.studio
+                <a href="mailto:developers.cryptoquest.studio" className="hover:text-[#00ffff]">
+                developers.cryptoquest.studio
                 </a>
               </li>
               <li className="flex items-center gap-2 text-gray-400">
