@@ -15,7 +15,7 @@ export function Navigation() {
     <header className="sticky top-0 z-50 border-b border-white/10 bg-black/80 backdrop-blur-xl">
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4">
         <Link to="/" className="text-2xl font-bold text-white">
-          CYBER<span className="text-[#ff00ff]">VERSE</span>
+          CRYPTO<span className="text-[#ff00ff]">QUEST</span>
         </Link>
 
         <div className="flex items-center gap-6">

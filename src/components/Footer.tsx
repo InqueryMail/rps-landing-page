@@ -26,7 +26,7 @@ export function Footer() {
             className="space-y-4"
           >
             <h3 className="text-2xl font-bold text-white">
-              CYBER<span className="text-[#00ff88]">VERSE</span>
+              CRYPTO<span className="text-[#00ff88]">QUEST</span>
             </h3>
             <p className="text-gray-400">
               The next generation of blockchain gaming, where cyberpunk meets the metaverse.
@@ -77,14 +77,14 @@ export function Footer() {
             <ul className="space-y-2">
               <li className="flex items-center gap-2 text-gray-400">
                 <Mail className="h-4 w-4 text-[#00ffff]" />
-                <a href="mailto:contact@cyberverse.game" className="hover:text-[#00ffff]">
-                  contact@cyberverse.game
+                <a href="mailto:developers.cryptoquest.studio" className="hover:text-[#00ffff]">
+                developers.cryptoquest.studio
                 </a>
               </li>
               <li className="flex items-center gap-2 text-gray-400">
                 <Globe className="h-4 w-4 text-[#00ffff]" />
-                <a href="https://cyberverse.game" className="hover:text-[#00ffff]">
-                  cyberverse.game
+                <a href="https://cryptoquest.stuido" className="hover:text-[#00ffff]">
+                  cryptoquest.studio
                 </a>
               </li>
             </ul>
